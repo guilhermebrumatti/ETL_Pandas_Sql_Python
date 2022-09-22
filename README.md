@@ -6,7 +6,11 @@ do Pandas.
 Depois crio um banco de dados com o Sqlite3 e importo os dados do DataFrame.
 
 Por último faço o inverso, consulto os dados no banco de dados através de uma query, novamente
-através do Pandas.
+através do Pandas.<br>
 Com o resultado, exporto os dados do novo DataFrame em um arquivo .XLSX
 
 <img src="https://github.com/guilhermebrumatti/guilhermebrumatti/blob/main/pandas_sql_python_print1.jpg?raw=true" />
+<br>
+Requisitos:<br>
+pip install pandas<br>
+pip install sqlite3
